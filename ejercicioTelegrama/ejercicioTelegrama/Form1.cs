@@ -68,4 +68,4 @@ namespace ejercicioTelegrama
             txtPrecio.Text = coste.ToString() + " euros";
         }
     }
-}    
+}   
